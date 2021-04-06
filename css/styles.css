@@ -10259,3 +10259,8 @@ form .row:first-child .floating-label-form-group {
   font-weight: 500;
   font-size: 1.5rem;
 }
+
+
+.white-link{
+  color: white;
+}
